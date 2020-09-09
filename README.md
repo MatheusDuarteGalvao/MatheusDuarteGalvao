@@ -1,7 +1,5 @@
 ### Hi there, I'm Matheus 👋
 
-<!--
-**MatheusDuarteGalvao/MatheusDuarteGalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am a developer, cars enthusiast and a tech lover:
 
@@ -10,7 +8,7 @@ I am a developer, cars enthusiast and a tech lover:
 - 👯 I’m looking to collaborate on frontend pages and maintain older systems
 - 💬 Ask me about JavaScript, ReactJs and better code pratices
 - 🎯 Goals start a new project and make some difference in my community
--->
+
 
 
 ### Connect with me:
