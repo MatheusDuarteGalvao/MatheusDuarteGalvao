@@ -3,7 +3,7 @@
 
 I am a developer, cars enthusiast and a tech lover:
 
-- 🔭 I’m currently working on [Uau-Fi](https://www.uaufi.com/)!
+- 🔭 I’m currently working on [web.art](https://www.webart.com.br/)!
 - 🌱 I’m currently learning NodeJS, React Native and ReactJS
 - 👯 I’m looking to collaborate on frontend pages and maintain older systems
 - 💬 Ask me about JavaScript, ReactJs and better code pratices
