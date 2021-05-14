@@ -14,3 +14,19 @@ I am a developer, cars enthusiast and a tech lover:
 ### Connect with me:
 
 [<img align="left" alt="Matheus Duarte | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/matheus-duarte-galv%C3%A3o-8b1a33b3/)
+
+
+## :trophy: My Github Stats:
+
+<!--
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=MatheusDuarteGalvao&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=MatheusDuarteGalvao&hide=php&theme=tokyonight)
+-->
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=MatheusDuarteGalvao&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=MatheusDuarteGalvao&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=MatheusDuarteGalvao&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=MatheusDuarteGalvao&hide=php&theme=tokyonight" />
+</a>
+</div>
