@@ -14,6 +14,7 @@ I am a developer, cars enthusiast and a tech lover:
 ### Connect with me:
 
 [<img align="left" alt="Matheus Duarte | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/matheus-duarte-galv%C3%A3o-8b1a33b3/)
+<br>
 
 
 ## :trophy: My Github Stats:
