@@ -1,14 +1,11 @@
 ### Hi there, I'm Matheus 👋
 
-
 I am a developer, cars enthusiast and a tech lover:
 
 - 🔭 I’m currently working on [web.art](https://www.webart.com.br/)!
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to build API integrations and maintain older systems
-- 💬 Ask me about PHP, JavaScript, ReactJs and better code pratices
-- 🎯 Goals start a new project and make some difference in my community
-
+- 💬 Ask me about PHP, JavaScript, VueJ
 
 
 ### Connect with me:
