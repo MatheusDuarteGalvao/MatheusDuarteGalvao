@@ -1,10 +1,10 @@
-### Hi there, I'm Matheus 👋
+### Hi there, I'm Matheus Duarte 👋
 
-I am a developer, cars enthusiast and a tech lover:
+I am a fullstack developer, cars enthusiast and a tech lover:
 
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to build API integrations and maintain older systems
-- 💬 Ask me about PHP, JavaScript, VueJ
+- 💬 Ask me about PHP, JavaScript, VueJS
 
 
 ### Connect with me:
