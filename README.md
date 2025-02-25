@@ -4,7 +4,7 @@ I am a fullstack developer, cars enthusiast and a tech lover:
 
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to build API integrations and maintain older systems
-- 💬 Ask me about PHP, JavaScript, VueJS
+- 💬 Ask me about PHP, Laravel, JavaScript
 
 
 ### Connect with me:
